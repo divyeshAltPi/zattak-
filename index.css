@@ -1,0 +1,284 @@
+/* navbar */
+
+
+.layerimg{
+    position: relative;
+    top: 29px;
+    left: 37px;
+    height: 43px;
+    width: 200px;
+}
+
+.navbarimp{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    margin-top: -15px;}
+
+
+
+.blogs{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    position: relative;
+    padding-left: 655px;
+/* identical to box height, or 150% */
+
+
+color: #6B0F1A;
+}
+.downloadNow{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 33px;
+border-radius: 10px;
+/* identical to box height, or 150% */
+
+
+color: #FFFCF2;
+background: #FE5F00;
+
+}
+
+.contactus{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+
+color: #6B0F1A;
+
+}
+
+.careers{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+    
+    
+    color: #6B0F1A;
+/* identical to box height, or 150% */
+
+
+color: #6B0F1A;
+}
+
+
+.layer1img{
+  
+   
+    position: absolute;
+    top: 3px;
+    left: 20px;
+ 
+}
+
+.img1{
+    height: 22px;
+    width: 133px;
+
+}
+
+.navbar-brand{
+    top: 0;
+}
+
+
+  /* frame part */
+
+
+  .framelogo{
+    position: absolute;
+    width: 401px;
+    height: 248px;
+    top: 173px;
+    left: 867px;
+}
+
+
+
+.container {
+    padding: 2em;
+  }
+
+  .v-slider-frame {
+    border: 1px solid #4BB3FD;
+    height: 50px;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  ul.v-slides {
+    list-style-type: none;
+    transform: translateY(50px);
+    padding:0;
+  }
+  .v-slide {
+    font-size: 24px;
+    line-height: 50px;
+    color: #4BB3FD;
+  }
+
+  .howitworks{
+    border: solid 7px #FFC526;
+    border-radius: 20px;
+    position: absolute;
+    top: 224px;
+    left: 143px;
+    height: 400px;
+    width: 82%;
+    background-color: #FFFCF2;;
+  }
+
+
+
+.howfonts{
+    position: relative;
+    top: -140px;
+    height: 99px;
+    width: 418px;
+    left: 400px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 96px;
+    color: #6B0F1A;
+    color: #6B0F1A;
+  
+}
+  .card1{
+    position: absolute;
+    top: 35px;
+    left: 67px;
+    height: 286px;
+    width: 284px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 6px 6px grey;
+    border-radius: 20px;
+   
+  }
+
+  .backhandimg{
+    padding-left: 64px;
+  }
+  .lolipopimg{
+    padding-left: 63px;
+    
+
+  }
+  .bagimg{
+    padding-left: 64px;
+
+  }
+
+  .enter{
+    padding-left: 94px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 63px;
+/* identical to box height */
+
+
+color: #6B0F1A;
+  }
+
+
+  .underenter{
+    padding-left: 10px;
+    padding-bottom: 20px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 17px;
+text-align: center;
+
+  }
+  .card2{
+    position: absolute;
+    top: 35px;
+    left: 433px;
+    height: 296px;
+    width: 284px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 6px 6px grey;
+    border-radius: 20px;
+   
+  }
+  .card3{
+    position: absolute;
+    top: 35px;
+    left: 790px;
+    height: 296px;
+    width: 284px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 6px 6px grey;
+    border-radius: 20px;
+   
+
+  }
+  .card-img-top{
+    height: 400px;
+    width: 400px;
+
+  }
+
+
+  .group70{
+    height: 404px;
+    width: 607px;
+    top: 700px;
+    left: 129px;
+    position: absolute;
+}
+.group71{
+    height: 223px;
+    width: 320px;
+    top: 700px;
+    left: 743px;
+    position: absolute;
+}
+
+.group72{
+    height: 223px;
+    width: 320px;
+    top: 900px;
+    left: 743px;
+    position: absolute;
+}
+
+.group73{
+    height: 223px;
+    width: 320px;
+    top: 700px;
+    left: 1042px;
+    position: absolute;
+}
+.group74{
+    height: 223px;
+    width: 320px;
+    top: 900px;
+    left: 1042px;
+    position: absolute;
+}
+
+
+
+
+
+  
+  
